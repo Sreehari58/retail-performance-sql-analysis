@@ -137,10 +137,11 @@ This dashboard provides a comprehensive view of retail business performance by a
 
 Using transactional sales data, the dashboard tracks monthly sales and profit trends, identifies high- and low-performing product categories, and evaluates customer contributions to overall profitability. It also examines the impact of discounting strategies and shipping modes to uncover operational and pricing inefficiencies.
 
-(sql/Page 1.png)
-(sql/Page 2.png)
-(sql/Page 3.png)
-(sql/Page 4.png)
+![SQL Page 1](sql/Page%201.png)
+![SQL Page 2](sql/Page%202.png)
+![SQL Page 3](sql/Page%203.png)
+![SQL Page 4](sql/Page%204.png)
+
 
 
 
