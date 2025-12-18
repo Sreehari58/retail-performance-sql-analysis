@@ -128,6 +128,16 @@ retail-performance-sql-analysis/
 │
 └── README.md                          # Project documentation
 
+## 📂 PowerBi Visualizations
+Total Sales 
+Total Profit
+Total Margin
+Total Customers
+This dashboard provides a comprehensive view of retail business performance by analyzing sales, profitability, customer behavior, and operational efficiency. The analysis is designed to support data-driven decision-making for retail stakeholders by highlighting key trends, growth patterns, and areas impacting profitability.
+
+Using transactional sales data, the dashboard tracks monthly sales and profit trends, identifies high- and low-performing product categories, and evaluates customer contributions to overall profitability. It also examines the impact of discounting strategies and shipping modes to uncover operational and pricing inefficiencies.
+
+
 
 
 ## 👤 Author
