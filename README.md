@@ -94,6 +94,22 @@ The project emphasizes **data-driven decision making** through trend analysis, r
 - Extend analysis with **inventory optimization metrics**
 
 ---
+## 📂 Outputs
+📈 Monthly Sales & Profit Trend
+![Monthly Sales](sql/monthly_sales_profit.png)
+
+📊 Month-over-Month Sales Growth
+![MoM Sales Growth](sql/mom_sales_growth.png)
+
+📉 Loss-Making Products
+![Loss Making Products](sql/loss_making_products.png)
+
+👥 Top Customers by Profitability
+![Customer Profit Ranking](sql/customer_profit_ranking.png)
+
+💸 Discount Impact on Profitability
+![Discount Impact](sql/discount_impact.png)
+
 
 ## 📂 Repository Structure
 retail-performance-sql-analysis/
@@ -116,4 +132,4 @@ retail-performance-sql-analysis/
 
 ## 👤 Author
 **Sreehari Thirumalai Bhuvaraghavan**  
-Data Analyst Enthusiast
+Data Analyst
